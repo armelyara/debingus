@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "530258506994",
+    "firebase_url": "https://debings.firebaseio.com",
+    "project_id": "debings",
+    "storage_bucket": "debings.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530258506994:android:231be8d8969736d2",
+        "android_client_info": {
+          "package_name": "com.example.debingus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530258506994-nvh4t46ahaf0r7c8pbfnbvj1s223l2rb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgPe5PxLlEiFHQBMdBIsCb3WdVSJBd0Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530258506994-nvh4t46ahaf0r7c8pbfnbvj1s223l2rb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
